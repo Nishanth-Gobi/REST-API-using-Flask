@@ -1,3 +1,5 @@
+# Basic REST API
+
 from flask import Flask
 from flask_restful import Resource, Api, abort, reqparse, marshal_with, fields
 from flask_sqlalchemy import SQLAlchemy
