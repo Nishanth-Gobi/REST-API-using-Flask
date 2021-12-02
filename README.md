@@ -18,3 +18,7 @@ After cloning this repo, run ` pip install -r requirements.txt ` to setup the vi
 
 1. Flask-respful [documentation](https://flask-restful.readthedocs.io/en/latest/)
 2. Youtube video series by [ProgrammingKnowledge](https://www.youtube.com/watch?v=kENidSltTuA&list=PLS1QulWo1RIYbSv5_R2I_QbAcvbyqBCun&index=2)
+
+## License
+
+[MIT](https://github.com/Nishanth-Gobi/REST-API-using-Flask/blob/master/LICENSE)
