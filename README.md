@@ -8,7 +8,7 @@
 
 3. api3.py - PUT & DELETE methods
 
-4. api4.py - Simple REST API (with SQLite as the db)
+4. app.py - Simple REST API (with SQLite as the db)
 
 ## Installation
 
